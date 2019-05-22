@@ -1,2 +1,0 @@
-# reeem
-bot heroku
